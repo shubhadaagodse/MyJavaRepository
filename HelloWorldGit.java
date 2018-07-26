@@ -8,7 +8,7 @@ class HelloWorld{
 
 	public static void main(String args[])
 	{
-qqq
+<<<<<<<<HEAD
 	System.out.println("Hello World.....!!!Welcome to Git");
 	displayDate();
 
