@@ -10,6 +10,7 @@ class HelloWorld{
 	{
 
 	System.out.println("Hello World............Welcome to Git");
+	displayDate();
 
 	HelloWorld obj=new HelloWorld();
 	obj.displayDate();
