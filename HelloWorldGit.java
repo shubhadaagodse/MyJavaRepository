@@ -1,7 +1,7 @@
 class HelloWorld{
 	
-void method(){
-	Sysout("display todays date");
+void displayDate(){
+	Sysout("Display todays date:-");
 }
 	public static void main(String args[])
 	{
